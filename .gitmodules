@@ -9,4 +9,5 @@
 	url = https://github.com/TomJinW/PokeGSC_SharedXLSXCN
 [submodule "pokecrystalCHS"]
 	path = pokecrystalCHS
-	url = https://github.com/TomJinW/pokecrystal_cn
+	url = https://github.com/yurikaka/pokecrystal_cn.git
+	branch = release_cn
